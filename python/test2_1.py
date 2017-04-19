@@ -1,0 +1,8 @@
+print("Enter your name: ",end = "")
+name = input()
+print("hello " + name)
+print("Enter Hours: ",end ="")
+hours = float(input())
+print("Enter Rate: ",end ="")
+rate = float(input())
+print("pay: ",rate * hours,"end")
